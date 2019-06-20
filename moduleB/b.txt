@@ -1,1 +1,2 @@
 B
+a new line is created
