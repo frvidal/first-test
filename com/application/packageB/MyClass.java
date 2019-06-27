@@ -1,7 +1,7 @@
 /*
 * Class to be moved in an another package
 */
-package com.application.packageA
+package com.application.packageB
 
 class MyClass {
 }
